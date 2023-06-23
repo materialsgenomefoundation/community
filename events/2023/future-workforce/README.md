@@ -8,7 +8,7 @@
 * Hosted by the [Materials Genome Foundation][mgf] and supported by [Nexight Group][nexight].
 
  [![](https://avatars.githubusercontent.com/u/71715171?s=200&v=4)][mgf]
- [![](https://pbs.twimg.com/profile_images/1430178983312863235/p04v-ZE6_400x400.png)][nexight]
+ [<img src="https://pbs.twimg.com/profile_images/1430178983312863235/p04v-ZE6_400x400.png" height=200>][nexight]
 
 ## Sign up for the event
 

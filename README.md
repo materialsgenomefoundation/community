@@ -2,6 +2,8 @@
 
 * [Weekly Materials Genome Foundation Demo Day](https://hackmd.io/@tonyfast/HJIFZQDqn)
 
+  Friday @ 9am PST on [Jitsi](https://meet.jit.si/mgf-materials-science-demo-friday)
+
   Each Friday members of the open materials science community demonstrate software and research updates.
   
 * [Montly Materials Genome Foundation Developer Meeting](https://hackmd.io/@tonyfast/r1yJZQwq2)

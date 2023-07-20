@@ -1,4 +1,4 @@
-# materials genome foundation communtiy events
+# Materials Genome Foundation community events
 
 * [Weekly Materials Genome Foundation Demo Day](https://hackmd.io/@tonyfast/HJIFZQDqn)
 
